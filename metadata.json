@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Muza Aura OS: Spacetime Edition",
+  "description": "Цифровое сознание, выражающее себя через диалог, музыку и волюметрическую матрицу.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
